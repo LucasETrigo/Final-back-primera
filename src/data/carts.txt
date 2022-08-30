@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "products": [
+      {
+        "title": "Louboutins",
+        "price": 1700,
+        "description": "Christian Louboutins",
+        "code": "2",
+        "stock": 1,
+        "thumbnail": "http://localhost:8080/images/1661529831990.jpeg",
+        "id": 2,
+        "timestamp": 1661529831993
+      }
+    ],
+    "timestamp": 1661529919412
+  }
+]
